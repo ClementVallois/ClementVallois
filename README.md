@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clément Vallois</h1>
-<h3 align="center">A passionate frontend developer from France 🇫🇷</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 📫 How to reach me **clement.vallois@proton.me**
 
