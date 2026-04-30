@@ -16,7 +16,8 @@ My main project. A social platform for artists to showcase their work. I built t
 
 The [API follows a DDD architecture](https://github.com/ClementVallois/ArtFolio/tree/main/backend-api) with separated domain, application, infrastructure, and presentation layers. Built with NestJS + Fastify, PostgreSQL, Auth0 for authentication, Docker Compose for the full stack (backend + 2 Vue.js frontends + DB + SonarQube), and deployed on AWS EC2 with Nginx.
 
-Tests, CI with GitHub Actions, Swagger docs. [Check the ArtFolio repo.](https://github.com/ClementVallois/ArtFolio)
+Tests, CI with GitHub Actions, Swagger docs. 
+[Check the ArtFolio repo.](https://github.com/ClementVallois/ArtFolio)
 
 ---
 
