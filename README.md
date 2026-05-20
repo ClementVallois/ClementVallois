@@ -6,7 +6,7 @@ Before switching to development, I spent 5 years as an IT project manager (MOA) 
 
 I did my dev training at École O'Clock (RNCP level 6, Bac+4) and I've been working as a developer since 2023. Currently looking for a backend role where I can work on real NestJS/Node.js projects in production.
 
-[Contact me](mailto:github.reason650@simplelogin.com) · [GitHub](https://github.com/ClementVallois)
+[Contact me](mailto:clement.vallois.pro@proton.me) · [Website](https://clementvallois.fr) · [GitHub](https://github.com/ClementVallois)
 
 ---
 
